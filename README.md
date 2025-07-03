@@ -1,1 +1,8 @@
-# Flappy-Bird
+ À propos de moi et de mon jeu Flappy Bird
+
+Bonjour à tous, je m’appelle Noé et je suis passionné par la création de jeux vidéo. Depuis plusieurs années, je consacre mon temps libre à développer des jeux, principalement pour le plaisir et l’apprentissage, sans ambition commerciale. Mon dernier projet est une copie de Flappy Bird, un jeu simple mais incroyablement addictif qui a marqué le monde du jeu mobile par son gameplay minimaliste et son challenge constant. Cette version est née d’un désir d’amusement personnel et d’un challenge technique, sans chercher à tirer un quelconque profit ou à obtenir des subventions. Je souhaitais simplement partager ce plaisir avec une communauté qui apprécie les jeux accessibles, fun et rapides à prendre en main.
+
+En parallèle, je travaille actuellement sur un projet beaucoup plus ambitieux : un RPG multijoueur en ligne. Ce jeu stratégique mettra les joueurs au défi de défendre leur propre ville tout en affrontant les attaques des trois autres villes voisines. Le but ultime sera d’être le dernier survivant, en combinant tactique, gestion et affrontements en temps réel. Afin de toucher un maximum de joueurs, ce RPG sera jouable sur n’importe quelle machine, directement dans un navigateur web, mais également disponible sur PC. Ce projet est encore en développement et j’ai hâte de pouvoir bientôt le partager avec vous, tout en construisant une communauté autour de ce concept unique.
+
+
+Je vous invite donc à découvrir ma version de Flappy Bird, née d’une passion sincère, et à suivre l’évolution de mon RPG multijoueur, qui promet une aventure immersive et compétitive accessible à tous. Merci pour votre soutien et vos retours, qui m’aident à progresser et à créer des jeux toujours plus engageants.
